@@ -15,3 +15,5 @@
 ### Tech Stack I work with
 
 <img src="https://img.icons8.com/?size=100&id=PXTY4q2Sq2lG&format=png&color=000000" width="30px">
+<img src="https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000" width="30px">
+<img src="https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000" width="30px">
