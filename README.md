@@ -1,6 +1,7 @@
-Hi, 
-- Connect with me through my LinkedIn: https://www.linkedin.com/in/saralgupta7/, Gmail: saralgup.taxtc@gmail.com
-<!---
-saral-gupta7/saral-gupta7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a developer who likes to craft memorable components and bring life to wesbites.
+
+🔭 I'm currently working on http://modern-landing-page-jet.vercel.app
+🌱 I'm currently learning **Web Animations** and **Agentic AI**
+💬 Ask me about **Animation* and **Frontend Development**
+📫 How to reach me: saral.guptaw@gmail.com
+⚡ Fun fact: I study Japanese
