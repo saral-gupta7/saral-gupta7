@@ -4,14 +4,19 @@
 
 <p>I'm passionate about building engaging, interactive web experiences and crafting memorable UI components. I enjoy exploring the latest technologies and staying updated with industry trends.</p>
 
-- 🔭 I'm currently working on http://modern-landing-page-jet.vercel.app <br>
+- 🔭 I'm currently working on [Alma Lente](http://modern-landing-page-jet.vercel.app) <br>
 - 🌱 I'm currently learning **Web Animations** and **Agentic AI** <br>
-- 💬 Read my Blogs: <some_link>
-- 📫 How to reach me: saral.guptaw@gmail.com <br>
+- 💬 Read my Blogs on [Hashnode](https://hashnode.com/@srlgpta)
+
+## 📫 Contact Me
+
+- [GitHub](https://github.com/saral-gupta7)
+- [LinkedIn](https://www.linkedin.com/in/saralgupta7/)
+- [Email Me](mailto:saral.guptaw@gmail.com)
 
 ---
 
-## Tech Stack I work with
+## Tech I work with
 <p align = "left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30" height="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height="30"/>
