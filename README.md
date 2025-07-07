@@ -4,7 +4,7 @@
 
 <p>I'm passionate about building engaging, interactive web experiences and crafting memorable UI components. I enjoy exploring the latest technologies and staying updated with industry trends.</p>
 
-- 🔭 I'm currently working on [Studio Ghibli Theme Page](https://studio-ghibli.srlgpta.xyz/) <br>
+- 🔭 I'm currently working on [Sublime IQ](https://sublime-iq.srlgpta.xyz/) <br>
 - 🌱 I'm currently learning **Web Animations** and **Agentic AI** <br>
 - 💬 Read my Blogs on [Hashnode](https://hashnode.com/@srlgpta)
 
