@@ -4,7 +4,7 @@
 
 <p>I'm passionate about building engaging, interactive web experiences and crafting memorable UI components. I enjoy exploring the latest technologies and staying updated with industry trends.</p>
 
-- 🔭 I'm currently working on [Axiom Dev](https://axiom-dev.srlgpta.xyz/) and [Quad Scan](https://quad-scan.srlgpta.xyz/) <br>
+- 🔭 I'm currently working on [Recode](https://recode.srlgpta.xyz/) and [Proximity AI](https://proximity-ai.srlgpta.xyz/) <br>
 - 🌱 I'm currently learning **Web Animations** and **Agentic AI** <br>
 - 💬 Read my Blogs on [Hashnode](https://hashnode.com/@srlgpta)
 
