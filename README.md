@@ -8,7 +8,6 @@
 
 <p align="center">
 <a href="https://github.com/saral-gupta7"><img src="https://img.shields.io/badge/github-0d1117?style=flat-square&logo=github&logoColor=888780" /></a>
-<a href="https://www.linkedin.com/in/saralgupta7/"><img src="https://img.shields.io/badge/linkedin-0d1117?style=flat-square&logo=linkedin&logoColor=0A66C2" /></a>
 <a href="https://srlgpta.xyz"><img src="https://img.shields.io/badge/srlgpta.xyz-0d1117?style=flat-square&logo=safari&logoColor=888780" /></a>
 <a href="https://hashnode.com/@srlgpta"><img src="https://img.shields.io/badge/hashnode-0d1117?style=flat-square&logo=hashnode&logoColor=2962FF" /></a>
 <a href="mailto:saral.guptaw@gmail.com"><img src="https://img.shields.io/badge/email-0d1117?style=flat-square&logo=gmail&logoColor=EA4335" /></a>
